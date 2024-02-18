@@ -7,7 +7,7 @@ Push button is one of the forms of the momentary switch, as it activates its wor
 
 ## Practical example - controlling the lighting of a two-light source via a push-button switch
  Explanation of circuit operation
-Each time the key is pressed, the state of the light source diode changes, that is, if the light source diode lights up and the key is pressed, the light source diode stops working, and with a new press on the key, the diode will return to work, and so on.
+Each time the key is pressed, the state of the light source diode changes, that is, if the light source diode lights up and the key is pressed, the light source diode stops working, and with a new press on the key, the diode will return to work, and so on. 
 
 
 ## Components list
